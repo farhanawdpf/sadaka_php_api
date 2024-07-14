@@ -1,0 +1,11 @@
+.h{
+    width: 83%;
+    min-height: 400px;
+margin-bottom: 80px;
+border-radius: 50px;
+}
+
+.f{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(29, 39, 46);
+   
+}
+.search{
+height: 40px;
+width: 700px;
+border-radius: 10px;
+}
+.baton{
+    width: 100px;
+    border-radius: 10px;
+}
+.logbaton{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+}
